@@ -13,6 +13,7 @@
 3. <a href="./mathematical-modeling-and-data-analysis/Блоки 6-7 - Дифференциальные модели">Дифференциальные модели</a>
 4. <a href="./mathematical-modeling-and-data-analysis/Факторный анализ.ipynb">Факторный анализ: что влияет на зарплату сотрудника?</a>
 5. <a href="./mathematical-modeling-and-data-analysis/Кластерный анализ.ipynb">Кластерный анализ: какие гены/белки образуют группы со схожими функциями?</a>
+6. <a href="./mathematical-modeling-and-data-analysis/Анализ времeнных рядов.ipynb">Анализ временных рядов: как прогнозировать дальнейшую динамику ВВП?</a>
 
 ## Теория
 1. <a href="./theory-of-probability-and-mathematical-statistics/01. Аксиоматика Колмогорова.ipynb">Аксиоматика Колмогорова</a>
