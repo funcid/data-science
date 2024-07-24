@@ -26,6 +26,16 @@
 <a href="./natural-language-processing">Обработка естественного языка (NLP)</a>
 1. <a href="./natural-language-processing/Векторные пространства.ipynb">Векторные пространства</a>
 2. <a href="./natural-language-processing/Информация и энтропия.ipynb">Информация и энтропия</a>
+3. <a href="./natural-language-processing/Часть речи и теггинг.ipynb">Часть речи и теггинг</a>
+4. <a href="./natural-language-processing/Распознавание именованных сущностей (NER).ipynb">Распознавание именованных сущностей (NER)</a>
+5. <a href="./natural-language-processing/Синтаксис и парсинг.ipynb">Синтаксис и парсинг</a>
+6. <a href="./natural-language-processing/Анализ тональности.ipynb">Анализ тональности</a>
+7. <a href="./natural-language-processing/Моделирование тем.ipynb">Моделирование тем</a>
+8. <a href="./natural-language-processing/Машинный перевод.ipynb">Машинный перевод</a>
+9. <a href="./natural-language-processing/Генерация текста.ipynb">Генерация текста</a>
+10. <a href="./natural-language-processing/Векторные представления слов и перенос обучения.ipynb">Векторные представления слов и перенос обучения</a>
+11. <a href="./natural-language-processing/Распознавание речи и синтез речи.ipynb">Распознавание речи и синтез речи</a>
+
 
 ## Теория
 1. <a href="./theory-of-probability-and-mathematical-statistics/01. Аксиоматика Колмогорова.ipynb">Аксиоматика Колмогорова</a>
