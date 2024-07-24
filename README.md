@@ -12,7 +12,7 @@
 2. <a href="./mathematical-modeling-and-data-analysis/Факторный анализ.ipynb">Факторный анализ: что влияет на зарплату сотрудника?</a>
 3. <a href="./mathematical-modeling-and-data-analysis/Кластерный анализ.ipynb">Кластерный анализ: какие гены/белки образуют группы со схожими функциями?</a>
 4. <a href="./mathematical-modeling-and-data-analysis/Анализ временных рядов.ipynb">Анализ временных рядов: как прогнозировать дальнейшую динамику ВВП?</a>
-5. <a href="./mathematical-modeling-and-data-analysis/Анализ главных компонент.ipynb">Анализ главных компонент: насколько можно уменьшить размер данных?</a>
+5. <a href="./mathematical-modeling-and-data-analysis/Анализ главных компонент.ipynb">Анализ главных компонент: насколько можно уменьшить размер с PCA?</a>
 
 <a href="./differential-equations">Дифференциальные уравнения</a>
 1. <a href="./differential-equations/Гармонические функции.ipynb">Гармонические функции, уравнение Лапласа</a>
