@@ -19,7 +19,7 @@
 2. <a href="./differential-equations/Определение типа уравнения.ipynb">Определение типа дифференциального уравнения</a>
 
 <a href="./linear-algebra">Линейная алгебра</a>
-1. <a href="./linear-algebra/Матрица и векторы.ipynb">Матрица и векторы</a>
+1. <a href="./linear-algebra/Матрицы и векторы.ipynb">Матрицы и векторы</a>
 2. <a href="./linear-algebra/Собственные значения и собственные векторы.ipynb">Собственные значения и собственные векторы</a>
 3. <a href="./linear-algebra/Разложение матриц (SVD и PCA).ipynb">Разложение матриц (SVD и PCA)</a>
 
