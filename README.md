@@ -17,6 +17,7 @@
 <a href="./differential-equations">Дифференциальные уравнения</a>
 1. <a href="./differential-equations/Гармонические функции.ipynb">Гармонические функции, уравнение Лапласа</a>
 2. <a href="./differential-equations/Определение типа уравнения.ipynb">Определение типа дифференциального уравнения</a>
+3. <a href="./differential-equations/Геодезические линии.ipynb">Геодезические линии</a>
 
 <a href="./linear-algebra">Линейная алгебра</a>
 1. <a href="./linear-algebra/Матрицы и векторы.ipynb">Матрицы и векторы</a>
